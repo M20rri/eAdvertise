@@ -1,0 +1,17 @@
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\bin\Debug\net7.0\eAdvertise.Infrastructure.Shared.deps.json
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\bin\Debug\net7.0\eAdvertise.Infrastructure.Shared.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\bin\Debug\net7.0\eAdvertise.Infrastructure.Shared.pdb
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\bin\Debug\net7.0\eAdvertise.Application.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\bin\Debug\net7.0\eAdvertise.Domain.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\bin\Debug\net7.0\eAdvertise.Application.pdb
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\bin\Debug\net7.0\eAdvertise.Domain.pdb
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\obj\Debug\net7.0\eAdvertise.Infrastructure.Shared.csproj.AssemblyReference.cache
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\obj\Debug\net7.0\eAdvertise.Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\obj\Debug\net7.0\eAdvertise.Infrastructure.Shared.AssemblyInfoInputs.cache
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\obj\Debug\net7.0\eAdvertise.Infrastructure.Shared.AssemblyInfo.cs
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\obj\Debug\net7.0\eAdvertise.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\obj\Debug\net7.0\eAdvertise.Infrastructure.Shared.csproj.CopyComplete
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\obj\Debug\net7.0\eAdvertise.Infrastructure.Shared.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\obj\Debug\net7.0\refint\eAdvertise.Infrastructure.Shared.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\obj\Debug\net7.0\eAdvertise.Infrastructure.Shared.pdb
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Infrastructure.Shared\obj\Debug\net7.0\ref\eAdvertise.Infrastructure.Shared.dll

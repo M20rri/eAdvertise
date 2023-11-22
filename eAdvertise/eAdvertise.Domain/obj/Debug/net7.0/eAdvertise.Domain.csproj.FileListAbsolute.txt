@@ -1,0 +1,12 @@
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\bin\Debug\net7.0\eAdvertise.Domain.deps.json
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\bin\Debug\net7.0\eAdvertise.Domain.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\bin\Debug\net7.0\eAdvertise.Domain.pdb
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\obj\Debug\net7.0\eAdvertise.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\obj\Debug\net7.0\eAdvertise.Domain.AssemblyInfoInputs.cache
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\obj\Debug\net7.0\eAdvertise.Domain.AssemblyInfo.cs
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\obj\Debug\net7.0\eAdvertise.Domain.csproj.CoreCompileInputs.cache
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\obj\Debug\net7.0\eAdvertise.Domain.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\obj\Debug\net7.0\refint\eAdvertise.Domain.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\obj\Debug\net7.0\eAdvertise.Domain.pdb
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\obj\Debug\net7.0\ref\eAdvertise.Domain.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Domain\obj\Debug\net7.0\eAdvertise.Domain.csproj.AssemblyReference.cache

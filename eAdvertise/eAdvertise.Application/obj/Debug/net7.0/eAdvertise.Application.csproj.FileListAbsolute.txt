@@ -1,0 +1,15 @@
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\bin\Debug\net7.0\eAdvertise.Application.deps.json
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\bin\Debug\net7.0\eAdvertise.Application.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\bin\Debug\net7.0\eAdvertise.Application.pdb
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\bin\Debug\net7.0\eAdvertise.Domain.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\bin\Debug\net7.0\eAdvertise.Domain.pdb
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\obj\Debug\net7.0\eAdvertise.Application.csproj.AssemblyReference.cache
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\obj\Debug\net7.0\eAdvertise.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\obj\Debug\net7.0\eAdvertise.Application.AssemblyInfoInputs.cache
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\obj\Debug\net7.0\eAdvertise.Application.AssemblyInfo.cs
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\obj\Debug\net7.0\eAdvertise.Application.csproj.CoreCompileInputs.cache
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\obj\Debug\net7.0\eAdvertise.Application.csproj.CopyComplete
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\obj\Debug\net7.0\eAdvertise.Application.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\obj\Debug\net7.0\refint\eAdvertise.Application.dll
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\obj\Debug\net7.0\eAdvertise.Application.pdb
+D:\Training\eAdvertise\eAdvertise\eAdvertise.Application\obj\Debug\net7.0\ref\eAdvertise.Application.dll
